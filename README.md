@@ -1,0 +1,1 @@
+## Simple page where I use useState and UseContext to control the showing and hiding of a nav menu which shows site's content links. The links in the navbar, when trigged by a mouse enter or mouse leave event change state to show or hide the overlay. This is a basic clone of the strapi site nav and content overlay menu.
